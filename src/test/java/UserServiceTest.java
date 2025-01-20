@@ -5,7 +5,6 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.List;
-
 public class UserServiceTest {
     private final UserService userService = new UserServiceImpl();
 
